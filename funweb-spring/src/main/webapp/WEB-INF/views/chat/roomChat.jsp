@@ -101,7 +101,7 @@ div#chatbox div.others {
 				this.addWinEvt();
 			},
 			connect: function () {
-				webSocket = new WebSocket('ws://localhost:8082/chat');
+				webSocket = new WebSocket('wss://localhost:8082/chat');
 				webSocket.onopen = this.onOpen;
 				webSocket.onmessage = this.onMessage; // 소켓서버로부터 데이터를 받을때 호출됨
 				webSocket.onclose = this.onClose;
