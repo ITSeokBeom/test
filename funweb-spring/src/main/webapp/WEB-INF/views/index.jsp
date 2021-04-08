@@ -58,21 +58,21 @@ $(document).ready(function() {
 	
 	<div id="solution">	
         <div id="hosting">
-            <h3>Web Hosting Solution</h3>
+            <h3>바뀌어라Web Hosting Solution</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nunc urna, 
 				fringilla non fringilla ut, lacinia eu urna. Aliquam nec urna at nisi pulvinar eleifend. 
 				Duis commodo luctus leo vitae feugiat. Curabitur ac sodales ante. Ut vel est </p>
         </div>
        
         <div id="security">
-			<h3>Web Security Solution</h3>
+			<h3>바뀌어라Web Security Solution</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nunc urna, 
 				fringilla non fringilla ut, lacinia eu urna. Aliquam nec urna at nisi pulvinar eleifend. 
 				Duis commodo luctus leo vitae feugiat. Curabitur ac sodales ante. Ut vel est </p>
         </div>
        
         <div id="payment">
-			<h3>Web payment Solution</h3>
+			<h3>바뀌어라Web payment Solution</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nunc urna, 
 				fringilla non fringilla ut, lacinia eu urna. Aliquam nec urna at nisi pulvinar eleifend. 
 				Duis commodo luctus leo vitae feugiat. Curabitur ac sodales ante. Ut vel est </p>
